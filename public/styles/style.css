@@ -1,0 +1,57 @@
+.cover-container {
+    max-width: 52em;
+}
+.merriweather-bold {
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: 2px;
+  }
+
+.roboto-slab {
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  letter-spacing: 2px;
+}
+.book {
+    position: relative;
+    min-height: 400px;
+}
+.cover {
+  float: left;
+}
+hr {
+  border: none;
+  border-top: 3px double;
+  overflow: visible;
+  text-align: center;
+  height: 5px;
+}
+h3 {
+  font-weight: bold;
+}
+.nav-link {
+  color: 
+  #0dcaf0;
+}
+.error {
+  color: red;
+}
+.book-btn {
+  position: absolute;
+  bottom: 20%;
+  right: 5%;
+}
+.date {
+  position: absolute;
+  bottom: 15%;
+  color: #6c757d;
+}
+.edit {
+  float: left;
+}
+.delete {
+  float: right;
+}
